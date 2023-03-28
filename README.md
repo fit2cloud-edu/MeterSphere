@@ -1,4 +1,4 @@
-<h2 align="center">MeterSphere-EDU</h2>
+<h1 align="center">MeterSphere-EDU</h1>
 </p>
 <hr />
 
