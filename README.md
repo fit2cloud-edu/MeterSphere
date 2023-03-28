@@ -6,7 +6,7 @@ MeterSphere-EDU 是 FIT2CLOUD飞致云 基于一站式开源持续测试平台 M
 
 <div align="center"> <img src="image/MeterSphere-logo.png" width = 400 /> </div>
 
-#### <center>一站式开源持续测试平台**</center>
+#### <center>一站式开源持续测试平台</center>
  
 MeterSphere 是一站式开源持续测试平台, 涵盖测试跟踪、接口测试、UI 测试和性能测试等功能，全面兼容 JMeter、Selenium 等主流开源标准，有效助力开发和测试团队充分利用云弹性进行高度可扩展的自动化测试，加速高质量的软件交付，推动中国测试行业整体效率的提升。
 > #### MeterSphere 的功能 ####
