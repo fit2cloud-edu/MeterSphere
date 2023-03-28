@@ -4,7 +4,6 @@ MeterSphere-EDU 是 FIT2CLOUD飞致云 基于一站式开源持续测试平台 M
 
 ## 一站式开源持续测试平台 MeterSphere 
 
-<div align="center"> <img src="image/MeterSphere-logo.png" width = 400 /> </div>
 <p align="center"><a href="https://metersphere.io"><img src="https://metersphere.oss-cn-hangzhou.aliyuncs.com/img/MeterSphere-%E7%B4%AB%E8%89%B2.png" alt="MeterSphere" width="300" /></a></p>
 <h3 align="center">一站式开源持续测试平台</h3>
 <p align="center">
