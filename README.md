@@ -2,7 +2,6 @@
 </p>
 MeterSphere-EDU 是 FIT2CLOUD飞致云 基于一站式开源持续测试平台 MeterSphere 和强大易用的开源建站工具 Halo 为全国高校免费提供软件测试教学支持的公益项目。该项目将一站式开源持续测试平台 MeterSphere 作为测试平台，将强大易用的开源建站工具 Halo 作为待测系统，从功能测试、接口测试、接口自动化测试、性能测试、Web UI 自动化测试以及测试跟踪等各方面对 Halo 建站工具进行实战测试。该项目旨在通过为高校老师提供软件测试平台以及待测系统和测试技术支持来提升高校老师的软件测试教学效率，最终让在校学生能够快速掌握企业需要的一站式持续测试技能。
 
-## 一站式开源持续测试平台 MeterSphere 
 
 <p align="center"><a href="https://metersphere.io"><img src="https://metersphere.oss-cn-hangzhou.aliyuncs.com/img/MeterSphere-%E7%B4%AB%E8%89%B2.png" alt="MeterSphere" width="300" /></a></p>
 <h3 align="center">一站式开源持续测试平台</h3>
@@ -29,7 +28,6 @@ MeterSphere 是一站式开源持续测试平台, 涵盖测试跟踪、接口测
 
  关注官网： `https://github.com/metersphere/metersphere`
  
-## 强大易用的开源建站工具 Halo
 
 <p align="center">
     <a href="https://halo.run" target="_blank" rel="noopener noreferrer">
