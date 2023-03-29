@@ -7,9 +7,9 @@ MeterSphere 高校合作计划是 MeterSphere 开源社区为全国高校免费�
 为了能更好的为高校老师提供配套的教学环境，我们主要从以下几个方面提供技术支持：
 * [提供 MeterSphere 专业测试云线上环境](https://www.metersphere.com/edu ) 
 * [提供 Halo 待测系统及线上环境](http://halo.edu.metersphere.com/ ) 
-* [提供 Metersphere 软件测试实验指导手册](https://github.com/FIT2CLOUD-EDU/MeterSphere-EDU/ ) 
-* [提供 MeterSphere 专业测试云软件测试教学视频课程](https://edu.fit2cloud.com/ ) 
-* [提供 MeterSphere 专业测试云软件测试教学PPT](https://github.com/FIT2CLOUD-EDU/MeterSphere-EDU/ ) 
+* [提供《软件测试实验指导手册》](https://github.com/FIT2CLOUD-EDU/MeterSphere-EDU/ ) 
+* [提供 MeterSphere 专业测试云教学视频课程](https://edu.fit2cloud.com/ ) 
+* [提供《软件测试实验教学PPT》](https://github.com/FIT2CLOUD-EDU/MeterSphere-EDU/ ) 
 * [提供 MeterSphere 软件测试工程师官方资格认证](https://edu.fit2cloud.com/ ) 
 * 提供 MeterSphere 专业测试云技术支持，微信扫码获取支持
 
