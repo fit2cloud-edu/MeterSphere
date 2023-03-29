@@ -78,10 +78,9 @@ Halo 作为一款好用又强大的开源建站工具，配合上不同的模板
 * [提供 MeterSphere 软件测试工程师官方资格认证](https://edu.fit2cloud.com/ ) 
 * 提供 MeterSphere 专业测试云技术支持，微信扫码加入【MS高校】技术支持群，获取 MeterSphere 高校技术支持。
 
-#### 欢迎读者在本仓库通过提交 Issue 针对《软件测试实验指导手册》以及其他材料提出反馈意见 ####
 <div align="center"> <img src="image/【MS高校】技术交流群.png" width = 200 /> </div>
 
-
+#### 同时欢迎各位高校老师和学生在本仓库提交 Issue 反馈所有教学材料的优化和改建建议。 ####
 
 
 ## 致谢
