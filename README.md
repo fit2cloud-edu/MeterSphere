@@ -27,7 +27,7 @@ MeterSphere 是一站式开源持续测试平台, 涵盖测试跟踪、接口测
 * 持续测试：无缝对接 Bug 管理工具和持续集成工具等，能将测试融入持续交付和 DevOps 体系；
 * 团队协作：支持团队协作和资产沉淀，无论团队规模如何，总有适合的落地方式。
 
- 关注官网： `[https://www.fit2cloud.com/metersphere/index.html](https://www.fit2cloud.com/metersphere/index.html ) `
+ 关注官网： https://www.fit2cloud.com/metersphere/index.html
  
 ## 强大易用的开源建站工具
   
@@ -56,7 +56,7 @@ Halo 作为一款好用又强大的开源建站工具，配合上不同的模板
 * 用户名：demo
 * 密码：P@ssw0rd123..
 
-关注官网： `[https://halo.run/](https://halo.run/ ) `
+关注官网： https://halo.run/
 
 ## MeterSphere 高校版
 我们基于 MeterSphere Cloud 环境（SaaS环境），即 MeterSphere 专业测试云为高校提供软件测试教学实践环境，搭载 MeterSphere LTS 版本最新功能、接轨行业最佳实践，让高校老师轻松实现课堂分班管理/学生小组协作/教师在线评审，助力高校测试工程人才培养。
@@ -64,7 +64,7 @@ Halo 作为一款好用又强大的开源建站工具，配合上不同的模板
 
 <div align="center"> <img src="image/高校版应用场景.png" width = 500 /> </div>
 
-马上获取： `[https://www.metersphere.com/edu](https://www.metersphere.com/edu ) `
+马上获取： https://www.metersphere.com/edu
 
 
 ## 技术支持
