@@ -71,7 +71,7 @@ Halo 作为一款好用又强大的开源建站工具，配合上不同的模板
 为了能更好的为高校老师提供配套的教学环境，我们主要从以下几个方面提供技术支持：
 
 * [提供在线 MeterSphere 专业测试云环境](https://www.metersphere.com/edu ) 
-* [提供在线 Halo 待测系统及环境](https://demo.halo.run/ ) 
+* [提供在线 Halo 待测系统及环境](http://halo.edu.metersphere.com/ ) 
 * [提供 Metersphere 软件测试实验指导手册](https://github.com/FIT2CLOUD-EDU/MeterSphere-EDU/ ) 
 * [提供 MeterSphere 专业测试云软件测试教学视频课程](https://edu.fit2cloud.com/ ) 
 * [提供 MeterSphere 专业测试云软件测试教学PPT](https://github.com/FIT2CLOUD-EDU/MeterSphere-EDU/ ) 
