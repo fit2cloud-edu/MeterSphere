@@ -72,13 +72,13 @@ Halo 作为一款好用又强大的开源建站工具，配合上不同的模板
 
 * [提供在线 MeterSphere 专业测试云环境](https://www.metersphere.com/edu ) 
 * [提供在线 Halo 待测系统及环境](https://demo.halo.run/ ) 
-* [提供 Metersphere 软件测试教学指导手册](https://github.com/FIT2CLOUD-EDU/MeterSphere-EDU/ ) 
+* [提供 Metersphere 软件测试实验指导手册](https://github.com/FIT2CLOUD-EDU/MeterSphere-EDU/ ) 
 * [提供 MeterSphere 专业测试云软件测试教学视频课程](https://edu.fit2cloud.com/ ) 
 * [提供 MeterSphere 专业测试云软件测试教学PPT](https://github.com/FIT2CLOUD-EDU/MeterSphere-EDU/ ) 
 * [提供 MeterSphere 软件测试工程师官方资格认证](https://edu.fit2cloud.com/ ) 
 * 提供 MeterSphere 专业测试云技术支持，微信扫码加入【MS高校】技术支持群，获取 MeterSphere 高校技术支持。
 
-#### 欢迎读者在本仓库对译本提出反馈意见 ####
+#### 欢迎读者在本仓库通过提交 Issue 针对《软件测试实验指导手册》以及其他材料提出反馈意见 ####
 <div align="center"> <img src="image/【MS高校】技术交流群.png" width = 200 /> </div>
 
 
@@ -93,7 +93,3 @@ Halo 作为一款好用又强大的开源建站工具，配合上不同的模板
 
 ## Copyright
 Copyright (c) 2014-2023  FIT2CLOUD 飞致云, All rights reserved.
-
-
-
-
