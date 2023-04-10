@@ -4,8 +4,8 @@
 
 ## 计划内容
 
-* [提供《软件测试实验教学PPT》](https://github.com/FIT2CLOUD-EDU/MeterSphere-EDU/ ) 
 * [提供《软件测试实验指导手册》](https://github.com/FIT2CLOUD-EDU/MeterSphere-EDU/ ) 
+* [提供《软件测试实验教学PPT》](https://github.com/FIT2CLOUD-EDU/MeterSphere-EDU/ ) 
 * [提供《MeterSphere 专业测试云》免费环境](https://www.metersphere.com/edu ) 
 * [提供《Halo 开源建站工具》线上环境](http://halo.edu.metersphere.com/ ) 
 * [提供《MeterSphere 专业测试云》教学视频课程](https://edu.fit2cloud.com/ ) 
