@@ -760,23 +760,8 @@ Authorization: Basic bWV0ZXJzcGhlcmV0ZXN0OkZpdDJjbG91ZEAyMDIz
     "kind": "string",                                                   // 必填                 //种类
     "metadata": {
       "generateName": "string",
-      "finalizers": [
-        "string"
-      ],
       "name": "string",                                                 // 必填                 // 唯一标识
-      "labels": {
-        "additionalProp1": "string",
-        "additionalProp2": "string",
-        "additionalProp3": "string"
-      },
-      "annotations": {
-        "additionalProp1": "string",
-        "additionalProp2": "string",
-        "additionalProp3": "string"
-      },
-      "version": 0,
-      "creationTimestamp": "2023-02-03T10:15:29.772Z",
-      "deletionTimestamp": "2023-02-03T10:15:29.772Z"
+           "version": 0
     }
   },
   "content": {
