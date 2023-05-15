@@ -1023,9 +1023,86 @@ Authorization: Basic bWV0ZXJzcGhlcmV0ZXN0OkZpdDJjbG91ZEAyMDIz
 }
 ```
 
+### 3.9删除回收站文章接口
+ 接口路径：
 
+  /apis/content.halo.run/v1alpha1/posts/{name}
 
-### 3.9 发表评论接口
+* 请求方式：
+
+  `PUT`
+
+* 请求头:
+
+```bash
+Accept: */*
+Authorization: Basic bWV0ZXJzcGhlcmV0ZXN0OkZpdDJjbG91ZEAyMDIz
+```
+
+* 响应结果【json】：
+````{
+  "spec": {
+    "title": "测试7651854231",
+    "slug": "167124932760",
+    "headSnapshot": "a23ef7ba-3928-4ae5-a7a4-b867648dfa4b",
+    "baseSnapshot": "a23ef7ba-3928-4ae5-a7a4-b867648dfa4b",
+    "owner": "admin",
+    "template": "",
+    "cover": "",
+    "deleted": true,
+    "publish": false,
+    "pinned": false,
+    "allowComment": true,
+    "visible": "PUBLIC",
+    "priority": 0,
+    "excerpt": {
+      "autoGenerate": true,
+      "raw": ""
+    },
+    "categories": [],
+    "tags": [],
+    "htmlMetas": []
+  },
+  "status": {
+    "phase": "DRAFT",
+    "conditions": [
+      {
+        "type": "DRAFT",
+        "status": "TRUE",
+        "lastTransitionTime": "2023-05-11T07:53:49.361998555Z",
+        "message": "Drafted post successfully.",
+        "reason": "DraftedSuccessfully"
+      }
+    ],
+    "permalink": "http://halo.edu.metersphere.com:80/archives/167124932760",
+    "inProgress": true,
+    "contributors": [
+      "Demo"
+    ]
+  },
+  "apiVersion": "content.halo.run/v1alpha1",
+  "kind": "Post",
+  "metadata": {
+    "finalizers": [
+      "post-protection"
+    ],
+    "name": "529fd103-bb1a-4ab8-8e42-8d03af7a0425",
+    "labels": {
+      "content.halo.run/published": "false",
+      "content.halo.run/deleted": "true",
+      "content.halo.run/owner": "Demo",
+      "content.halo.run/visible": "PUBLIC"
+    },
+    "annotations": {
+      "content.halo.run/preferred-editor": "default"
+    },
+    "version": 8,
+    "creationTimestamp": "2023-05-11T07:53:47.843914935Z",
+    "deletionTimestamp": "2023-05-11T09:09:32.523694136Z"
+  }
+}
+````
+### 3.10 发表评论接口
 
 * 接口路径：
 
@@ -1097,7 +1174,7 @@ Authorization: Basic bWV0ZXJzcGhlcmV0ZXN0OkZpdDJjbG91ZEAyMDIz
 
 
 
-### 3.10 审核评论接口
+### 3.11 审核评论接口
 
 * 接口路径：
 
@@ -1213,7 +1290,7 @@ Authorization: Basic bWV0ZXJzcGhlcmV0ZXN0OkZpdDJjbG91ZEAyMDIz
 
 
 
-### 3.11 回复评论接口
+### 3.12 回复评论接口
 
 * 接口路径：
 
@@ -1275,7 +1352,7 @@ Authorization: Basic bWV0ZXJzcGhlcmV0ZXN0OkZpdDJjbG91ZEAyMDIz
 
 
 
-### 3.12  删除评论接口
+### 3.13  删除评论接口
 
 * 接口路径：
 
