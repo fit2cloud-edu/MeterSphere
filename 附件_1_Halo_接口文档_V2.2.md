@@ -1030,7 +1030,13 @@ Authorization: Basic bWV0ZXJzcGhlcmV0ZXN0OkZpdDJjbG91ZEAyMDIz
 
 * 请求方式：
 
-  `PUT`
+  `DELETE`
+  
+* 请求参数：
+
+| 参数名 | 必填项 | 数据类型 | 备注                       |
+| ------ | ------ | -------- | -------------------------- |
+| name   | 是     | string   | 文章数据中metadata中的name |
 
 * 请求头:
 
