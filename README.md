@@ -15,7 +15,7 @@
 
 如果大家有任何疑问和建议，欢迎加入微信交流群进行沟通交流。
 
-<div align="left"> <img src="image/【MS高校】技术交流群.png" width = 200 /> </div>
+<div align="left"> <img src="02_《软件测试实践教学》课程资料/image/MS高校技术交流群.jpg" width = 200 /> </div>
 
 ## 致谢
 
