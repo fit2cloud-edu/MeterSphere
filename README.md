@@ -1,12 +1,12 @@
 <h1 align="center">MeterSphere 高校合作计划</h1>
 </p>
-本计划是 MeterSphere 开源社区为全国高校免费提供的软件测试教学实践公益项目。该项目为高校师生提供软件测试实验课程需要的全套教学材料，旨在提升高校老师的软件测试教学效率，最终让在校学生能够快速掌握企业需要的软件测试技能。
+本计划是 MeterSphere 开源社区为全国高校提供的软件测试教学实践公益项目。该项目为高校师生提供软件测试实验课程需要的全套教学材料，旨在提升高校老师的软件测试教学效率，最终让在校学生能够快速掌握企业需要的软件测试技能。
 
 ## 计划内容
 
 * [提供《软件测试实验指导手册》](https://github.com/FIT2CLOUD-EDU/MeterSphere-EDU/ ) 
 * [提供《软件测试实验教学PPT》](https://github.com/FIT2CLOUD-EDU/MeterSphere-EDU/ ) 
-* [提供《MeterSphere 专业测试云》免费环境](https://www.metersphere.com/edu ) 
+* [提供《MeterSphere 专业测试云》教学实训环境](https://www.metersphere.com/edu ) 
 * [提供《Halo 开源建站工具》线上环境](http://halo.edu.metersphere.com/ ) 
 * [提供《MeterSphere 专业测试云》教学视频课程](https://edu.fit2cloud.com/ ) 
 * [提供《MeterSphere 软件测试工程师》官方资格认证](https://edu.fit2cloud.com/ ) 
